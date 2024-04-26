@@ -1,3 +1,4 @@
+![logo](https://github.com/tech-skil/tech-skil/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Jayanrh B R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
