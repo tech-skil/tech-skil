@@ -4,11 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
-- 🔭 I’m currently working on [Facebook login Page clone](https://fb-login-react.netlify.app/)
+- 🔭 I’m currently working on [React](https://fb-login-react.netlify.app/)
 
 - 🌱 I’m currently learning **React js , React Native , node js**
 
-- 👯 My next Project is **Microsoft clone**
+- 👯 My next Project is **ON next js and node js **
 
 - 👨‍💻 All of my projects are available at [#](#)
 
