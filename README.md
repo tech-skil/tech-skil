@@ -54,12 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-skil&theme=radical" alt="Jayanth's GitHub streak" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tech-skil&theme=darkhub&no-frame=true&margin-w=15" alt="Jayanth's GitHub trophies" />
-</p>
-
 ## 📈 Most Used Languages
 
 <p align="center">
