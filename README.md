@@ -66,20 +66,22 @@
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Cold Block" src="https://img.shields.io/badge/Cold%20Block-007ACC?logo=visual-studio-code&logoColor=white">
 </p>
 
 ## 📊 Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tech-skil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Jayanth's Github Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-skil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Jayanth's Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-skil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Jayanth's Github Streak" />
 </p>
-
-<a href="https://github.com/tech-skil/github-readme-activity-graph"><img alt="Jayanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tech-skil&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🏆 GitHub Trophies
 
@@ -103,4 +105,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=120&section=footer"/>
