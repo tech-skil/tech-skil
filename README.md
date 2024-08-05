@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+<br>
+<br>
 
 <img align="right" alt="Coding" width="450" style='margin-top:20px' src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
 
