@@ -22,7 +22,10 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <!-- Replace the URL below with your own GIF URL -->
+  <img src="https://your-gif-url-here.gif" alt="Coding" width="400">
+</div>
 
 ## 🚀 About Me
 
