@@ -22,13 +22,7 @@
   </a>
 </p>
 
-<div align="center">
-  <h3>💻 Coding in Progress 💻</h3>
-  <p>Imagine a developer deeply focused, fingers flying across the keyboard, 
-  bringing ideas to life through code. That's me, crafting elegant solutions 
-  and building the future, one line at a time.</p>
-  <a href="https://example.com/coding-image.gif" target="_blank">Download Coding GIF</a>
-</div>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
 
