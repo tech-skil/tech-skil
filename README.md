@@ -24,9 +24,9 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="450" style="padding-top: 5rem;" src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
 
 ## 🚀 About Me
+<img align="right" alt="Coding" width="450" style="padding-top: 5rem;" src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
 
 - 🔭 I'm currently working on [React Projects](https://fb-login-react.netlify.app/)
 - 🌱 I'm learning **React.js, React Native, and Node.js**
