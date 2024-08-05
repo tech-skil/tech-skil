@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="450" style='margin-top:20px' src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
+<img align="right" alt="Coding" width="450" style="padding: 25px;" src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
 
 ## 🚀 About Me
 
