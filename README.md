@@ -23,8 +23,11 @@
 </p>
 
 <div align="center">
-  <!-- Replace the URL below with your own GIF URL -->
-  <img src="https://your-gif-url-here.gif" alt="Coding" width="400">
+  <h3>💻 Coding in Progress 💻</h3>
+  <p>Imagine a developer deeply focused, fingers flying across the keyboard, 
+  bringing ideas to life through code. That's me, crafting elegant solutions 
+  and building the future, one line at a time.</p>
+  <a href="https://example.com/coding-image.gif" target="_blank">Download Coding GIF</a>
 </div>
 
 ## 🚀 About Me
