@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+web+developer;Tech+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gen+AI+Engineer;Azure+AI+Certified+Associate;Enterprise+AI+Solutions+Builder&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </p>
 
 <p align="center">
@@ -20,55 +20,61 @@
   <a href="mailto:jayanthjay295@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://cv-resume-link-here.com" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_AI_Engineer_AI--102-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer">
+  </a>
 </p>
 
 
 ## 🚀 About Me
 <img align="right" alt="Coding" width="450" style="padding-top: 5rem;" src="https://github.com/tech-skil/tech-skil/blob/main/coding.gif">
 
-- 🔭 I'm currently working on [React Projects](https://fb-login-react.netlify.app/)
-- 🌱 I'm learning **React.js, React Native, and Node.js**
-- 👯 My next project will focus on **Node.js and MongoDB**
-- 💼 Full-stack developer with a passion for creating seamless user experiences
+- 🔭 I'm currently working as a **Gen AI Engineer at Quinnox Pvt Ltd**, delivering enterprise Generative AI solutions for US-based insurance clients.
+- 🌱 I'm focused on scaling production-ready Retrieval-Augmented Generation (RAG) systems, multi-agent workflows, and advanced LLM evaluation pipelines.
+- 💼 Certified **Azure AI Engineer Associate (AI-102)** and **Azure AZ-900** certified professional with a Bachelor's in Computer Science from VTU (2025).
+- 💡 Passionate about building intelligent applications powered by AI agents, automation, and high-accuracy vector search architectures.
 - 📫 Reach me at: **jayanthjay295@gmail.com**
 
 ## 🛠️ My Tech Stack
 
-### 👨‍💻 Programming Languages
-
+### 🧠 Generative AI & Agentic AI
 <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white">
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=chainlink&logoColor=white">
+    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FF4F00.svg?logo=graph&logoColor=white">
+    <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-8250DF.svg?logo=databricks&logoColor=white">
+    <img alt="Semantic Kernel" src="https://img.shields.io/badge/Semantic_Kernel-0078D4.svg?logo=microsoft&logoColor=white">
+    <img alt="RAG" src="https://img.shields.io/badge/RAG-Enterprise-blue?style=flat">
+    <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-Multi_Agent-orange?style=flat">
+    <img alt="DeepEval" src="https://img.shields.io/badge/DeepEval-LLM_Eval-green?style=flat">
 </p>
 
-### 🧰 Frameworks and Libraries
-
+### ☁️ Cloud, Search & Databases
 <p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6.svg?logo=microsoft-azure&logoColor=white">
+    <img alt="Azure AI Search" src="https://img.shields.io/badge/Azure_AI_Search-0078D4.svg?logo=microsoft&logoColor=white">
+    <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?logo=pinecone&logoColor=white">
+    <img alt="Cosmos DB" src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4.svg?logo=azurecosmosdb&logoColor=white">
+    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?logo=amazonaws&logoColor=white">
+    <img alt="Amazon Q" src="https://img.shields.io/badge/Amazon_Q-232F3E.svg?logo=amazon&logoColor=white">
 </p>
 
-### 🗄️ Databases and Cloud Hosting
-
+### 💻 Programming, Backend & DevOps
 <p>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+    <img alt="FastAPI/REST APIs" src="https://img.shields.io/badge/REST_APIs-005571.svg?logo=postman&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?logo=terraform&logoColor=white">
+    <img alt="Bicep" src="https://img.shields.io/badge/Azure_Bicep-0089D6.svg?logo=microsoftazure&logoColor=white">
+    <img alt="Docker/CI-CD" src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
 </p>
 
-### 💻 Software and Tools
-
+### 🧰 Tools & Version Control
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=github-actions&logoColor=white">
+    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?logo=azuredevops&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white">
-    <img alt="Cold Block" src="https://img.shields.io/badge/Cold%20Block-007ACC?logo=visual-studio-code&logoColor=white">
 </p>
 
 ## 📊 Github Stats
